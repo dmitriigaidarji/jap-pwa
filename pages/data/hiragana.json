@@ -1,0 +1,442 @@
+[
+  {
+    "character": "あ",
+    "sound": "a"
+  },
+  {
+    "character": "い",
+    "sound": "i"
+  },
+  {
+    "character": "う",
+    "sound": "u"
+  },
+  {
+    "character": "え",
+    "sound": "e"
+  },
+  {
+    "character": "お",
+    "sound": "o"
+  },
+  {
+    "character": "か",
+    "sound": "ka"
+  },
+  {
+    "character": "き",
+    "sound": "ki"
+  },
+  {
+    "character": "く",
+    "sound": "ku"
+  },
+  {
+    "character": "け",
+    "sound": "ke"
+  },
+  {
+    "character": "こ",
+    "sound": "ko"
+  },
+  {
+    "character": "さ",
+    "sound": "sa"
+  },
+  {
+    "character": "し",
+    "sound": "shi"
+  },
+  {
+    "character": "す",
+    "sound": "su"
+  },
+  {
+    "character": "せ",
+    "sound": "se"
+  },
+  {
+    "character": "そ",
+    "sound": "so"
+  },
+  {
+    "character": "た",
+    "sound": "ta"
+  },
+  {
+    "character": "ち",
+    "sound": "chi"
+  },
+  {
+    "character": "つ",
+    "sound": "tsu"
+  },
+  {
+    "character": "て",
+    "sound": "te"
+  },
+  {
+    "character": "と",
+    "sound": "to"
+  },
+  {
+    "character": "な",
+    "sound": "na"
+  },
+  {
+    "character": "に",
+    "sound": "ni"
+  },
+  {
+    "character": "ぬ",
+    "sound": "nu"
+  },
+  {
+    "character": "ね",
+    "sound": "ne"
+  },
+  {
+    "character": "の",
+    "sound": "no"
+  },
+  {
+    "character": "は",
+    "sound": "ha"
+  },
+  {
+    "character": "ひ",
+    "sound": "hi"
+  },
+  {
+    "character": "ふ",
+    "sound": "fu"
+  },
+  {
+    "character": "へ",
+    "sound": "he"
+  },
+  {
+    "character": "ほ",
+    "sound": "ho"
+  },
+  {
+    "character": "ま",
+    "sound": "ma"
+  },
+  {
+    "character": "み",
+    "sound": "mi"
+  },
+  {
+    "character": "む",
+    "sound": "mu"
+  },
+  {
+    "character": "め",
+    "sound": "me"
+  },
+  {
+    "character": "も",
+    "sound": "mo"
+  },
+  {
+    "character": "や",
+    "sound": "ya"
+  },
+  {
+    "character": "ゆ",
+    "sound": "yu"
+  },
+  {
+    "character": "よ",
+    "sound": "yo"
+  },
+  {
+    "character": "ら",
+    "sound": "ra"
+  },
+  {
+    "character": "り",
+    "sound": "ri"
+  },
+  {
+    "character": "る",
+    "sound": "ru"
+  },
+  {
+    "character": "れ",
+    "sound": "re"
+  },
+  {
+    "character": "ろ",
+    "sound": "ro"
+  },
+  {
+    "character": "わ",
+    "sound": "wa"
+  },
+  {
+    "character": "ゐ",
+    "sound": "wi"
+  },
+  {
+    "character": "ゑ",
+    "sound": "we"
+  },
+  {
+    "character": "を",
+    "sound": "wo"
+  },
+  {
+    "character": "ん",
+    "sound": "n"
+  },
+  {
+    "character": "が",
+    "sound": "ga"
+  },
+  {
+    "character": "ぎ",
+    "sound": "gi"
+  },
+  {
+    "character": "ぐ",
+    "sound": "gu"
+  },
+  {
+    "character": "げ",
+    "sound": "ge"
+  },
+  {
+    "character": "ご",
+    "sound": "go"
+  },
+  {
+    "character": "ざ",
+    "sound": "za"
+  },
+  {
+    "character": "じ",
+    "sound": "ji"
+  },
+  {
+    "character": "ず",
+    "sound": "zu"
+  },
+  {
+    "character": "ぜ",
+    "sound": "ze"
+  },
+  {
+    "character": "ぞ",
+    "sound": "zo"
+  },
+  {
+    "character": "だ",
+    "sound": "da"
+  },
+  {
+    "character": "ぢ",
+    "sound": "ji"
+  },
+  {
+    "character": "づ",
+    "sound": "zu"
+  },
+  {
+    "character": "で",
+    "sound": "de"
+  },
+  {
+    "character": "ど",
+    "sound": "do"
+  },
+  {
+    "character": "ば",
+    "sound": "ba"
+  },
+  {
+    "character": "び",
+    "sound": "bi"
+  },
+  {
+    "character": "ぶ",
+    "sound": "bu"
+  },
+  {
+    "character": "べ",
+    "sound": "be"
+  },
+  {
+    "character": "ぼ",
+    "sound": "bo"
+  },
+  {
+    "character": "ぱ",
+    "sound": "pa"
+  },
+  {
+    "character": "ぴ",
+    "sound": "pi"
+  },
+  {
+    "character": "ぷ",
+    "sound": "pu"
+  },
+  {
+    "character": "ぺ",
+    "sound": "pe"
+  },
+  {
+    "character": "ぽ",
+    "sound": "po"
+  },
+  {
+    "character": "ゔ",
+    "sound": "vu"
+  },
+  {
+    "character": "きゃ",
+    "sound": "kya"
+  },
+  {
+    "character": "きゅ",
+    "sound": "kyu"
+  },
+  {
+    "character": "きょ",
+    "sound": "kyo"
+  },
+  {
+    "character": "しゃ",
+    "sound": "sha"
+  },
+  {
+    "character": "しゅ",
+    "sound": "shu"
+  },
+  {
+    "character": "しょ",
+    "sound": "sho"
+  },
+  {
+    "character": "ちゃ",
+    "sound": "cha"
+  },
+  {
+    "character": "ちゅ",
+    "sound": "chu"
+  },
+  {
+    "character": "ちょ",
+    "sound": "cho"
+  },
+  {
+    "character": "にゃ",
+    "sound": "nya"
+  },
+  {
+    "character": "にゅ",
+    "sound": "nyu"
+  },
+  {
+    "character": "にょ",
+    "sound": "nyo"
+  },
+  {
+    "character": "ひゃ",
+    "sound": "hya"
+  },
+  {
+    "character": "ひゅ",
+    "sound": "hyu"
+  },
+  {
+    "character": "ひょ",
+    "sound": "hyo"
+  },
+  {
+    "character": "みゃ",
+    "sound": "mya"
+  },
+  {
+    "character": "みゅ",
+    "sound": "myu"
+  },
+  {
+    "character": "みょ",
+    "sound": "myo"
+  },
+  {
+    "character": "りゃ",
+    "sound": "rya"
+  },
+  {
+    "character": "りゅ",
+    "sound": "ryu"
+  },
+  {
+    "character": "りょ",
+    "sound": "ryo"
+  },
+  {
+    "character": "ぎゃ",
+    "sound": "gya"
+  },
+  {
+    "character": "ぎゅ",
+    "sound": "gyu"
+  },
+  {
+    "character": "ぎょ",
+    "sound": "gyo"
+  },
+  {
+    "character": "じゃ",
+    "sound": "ja"
+  },
+  {
+    "character": "じゅ",
+    "sound": "ju"
+  },
+  {
+    "character": "じょ",
+    "sound": "jo"
+  },
+  {
+    "character": "ぢゃ",
+    "sound": "ja"
+  },
+  {
+    "character": "ぢゅ",
+    "sound": "ju"
+  },
+  {
+    "character": "ぢょ",
+    "sound": "jo"
+  },
+  {
+    "character": "びゃ",
+    "sound": "bya"
+  },
+  {
+    "character": "びゅ",
+    "sound": "byu"
+  },
+  {
+    "character": "にょ",
+    "sound": "byo"
+  },
+  {
+    "character": "ぴゃ",
+    "sound": "pya"
+  },
+  {
+    "character": "ぴゅ",
+    "sound": "pyu"
+  },
+  {
+    "character": "ぴょ",
+    "sound": "pyo"
+  }
+]
