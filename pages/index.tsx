@@ -17,6 +17,12 @@ export default function Home() {
             </a>
           </Link>
 
+          <Link href="/katakana/">
+            <a className={styles.card}>
+              <h3>Katakana Test &rarr;</h3>
+              <p>Test your Katakana characters knowledge by choosing a correct pronunciation</p>
+            </a>
+          </Link>
         </div>
       </main>
     </div>

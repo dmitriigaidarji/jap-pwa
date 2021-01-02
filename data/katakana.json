@@ -1,0 +1,527 @@
+[
+  {
+    "character": "ア",
+    "transcription": "a",
+    "level": 1
+  },
+  {
+    "character": "イ",
+    "transcription": "i",
+    "level": 1
+  },
+  {
+    "character": "ウ",
+    "transcription": "u",
+    "level": 1
+  },
+  {
+    "character": "エ",
+    "transcription": "e",
+    "level": 1
+  },
+  {
+    "character": "オ",
+    "transcription": "o",
+    "level": 1
+  },
+  {
+    "character": "カ",
+    "transcription": "ka",
+    "level": 1
+  },
+  {
+    "character": "キ",
+    "transcription": "ki",
+    "level": 1
+  },
+  {
+    "character": "ク",
+    "transcription": "ku",
+    "level": 1
+  },
+  {
+    "character": "ケ",
+    "transcription": "ke",
+    "level": 1
+  },
+  {
+    "character": "コ",
+    "transcription": "ko",
+    "level": 1
+  },
+  {
+    "character": "サ",
+    "transcription": "sa",
+    "level": 1
+  },
+  {
+    "character": "シ",
+    "transcription": "shi",
+    "level": 1
+  },
+  {
+    "character": "ス",
+    "transcription": "su",
+    "level": 1
+  },
+  {
+    "character": "セ",
+    "transcription": "se",
+    "level": 1
+  },
+  {
+    "character": "ソ",
+    "transcription": "so",
+    "level": 1
+  },
+  {
+    "character": "タ",
+    "transcription": "ta",
+    "level": 1
+  },
+  {
+    "character": "チ",
+    "transcription": "chi",
+    "level": 1
+  },
+  {
+    "character": "ツ",
+    "transcription": "tsu",
+    "level": 1
+  },
+  {
+    "character": "テ",
+    "transcription": "te",
+    "level": 1
+  },
+  {
+    "character": "ト",
+    "transcription": "to",
+    "level": 1
+  },
+  {
+    "character": "ナ",
+    "transcription": "na",
+    "level": 1
+  },
+  {
+    "character": "ニ",
+    "transcription": "ni",
+    "level": 1
+  },
+  {
+    "character": "ヌ",
+    "transcription": "nu",
+    "level": 1
+  },
+  {
+    "character": "ネ",
+    "transcription": "ne",
+    "level": 1
+  },
+  {
+    "character": "ノ",
+    "transcription": "no",
+    "level": 1
+  },
+  {
+    "character": "ハ",
+    "transcription": "ha",
+    "level": 1
+  },
+  {
+    "character": "ヒ",
+    "transcription": "hi",
+    "level": 1
+  },
+  {
+    "character": "フ",
+    "transcription": "hu",
+    "level": 1
+  },
+  {
+    "character": "ヘ",
+    "transcription": "he",
+    "level": 1
+  },
+  {
+    "character": "ホ",
+    "transcription": "ho",
+    "level": 1
+  },
+  {
+    "character": "マ",
+    "transcription": "ma",
+    "level": 1
+  },
+  {
+    "character": "ミ",
+    "transcription": "mi",
+    "level": 1
+  },
+  {
+    "character": "ム",
+    "transcription": "mu",
+    "level": 1
+  },
+  {
+    "character": "メ",
+    "transcription": "me",
+    "level": 1
+  },
+  {
+    "character": "モ",
+    "transcription": "mo",
+    "level": 1
+  },
+  {
+    "character": "ヤ",
+    "transcription": "ya",
+    "level": 1
+  },
+  {
+    "character": "ユ",
+    "transcription": "yu",
+    "level": 1
+  },
+  {
+    "character": "ヨ",
+    "transcription": "yo",
+    "level": 1
+  },
+  {
+    "character": "ラ",
+    "transcription": "ra",
+    "level": 1
+  },
+  {
+    "character": "リ",
+    "transcription": "ri",
+    "level": 1
+  },
+  {
+    "character": "ル",
+    "transcription": "ru",
+    "level": 1
+  },
+  {
+    "character": "レ",
+    "transcription": "re",
+    "level": 1
+  },
+  {
+    "character": "ロ",
+    "transcription": "ro",
+    "level": 1
+  },
+  {
+    "character": "ワ",
+    "transcription": "wa",
+    "level": 1
+  },
+  {
+    "character": "ヲ",
+    "transcription": "wo",
+    "level": 1
+  },
+  {
+    "character": "ン",
+    "transcription": "n",
+    "level": 1
+  },
+  {
+    "character": "ガ",
+    "transcription": "ga",
+    "level": 2
+  },
+  {
+    "character": "ギ",
+    "transcription": "gi",
+    "level": 2
+  },
+  {
+    "character": "グ",
+    "transcription": "gu",
+    "level": 2
+  },
+  {
+    "character": "ゲ",
+    "transcription": "ge",
+    "level": 2
+  },
+  {
+    "character": "ゴ",
+    "transcription": "go",
+    "level": 2
+  },
+  {
+    "character": "ザ",
+    "transcription": "za",
+    "level": 2
+  },
+  {
+    "character": "ジ",
+    "transcription": "ji",
+    "level": 2
+  },
+  {
+    "character": "ズ",
+    "transcription": "zu",
+    "level": 2
+  },
+  {
+    "character": "ゼ",
+    "transcription": "ze",
+    "level": 2
+  },
+  {
+    "character": "ゾ",
+    "transcription": "zo",
+    "level": 2
+  },
+  {
+    "character": "ダ",
+    "transcription": "da",
+    "level": 2
+  },
+  {
+    "character": "ヂ",
+    "transcription": "ji",
+    "level": 2
+  },
+  {
+    "character": "ヅ",
+    "transcription": "zu",
+    "level": 2
+  },
+  {
+    "character": "デ",
+    "transcription": "de",
+    "level": 2
+  },
+  {
+    "character": "ド",
+    "transcription": "do",
+    "level": 2
+  },
+  {
+    "character": "バ",
+    "transcription": "ba",
+    "level": 2
+  },
+  {
+    "character": "ビ",
+    "transcription": "bi",
+    "level": 2
+  },
+  {
+    "character": "ブ",
+    "transcription": "bu",
+    "level": 2
+  },
+  {
+    "character": "ベ",
+    "transcription": "be",
+    "level": 2
+  },
+  {
+    "character": "ボ",
+    "transcription": "bo",
+    "level": 2
+  },
+  {
+    "character": "パ",
+    "transcription": "pa",
+    "level": 2
+  },
+  {
+    "character": "ピ",
+    "transcription": "pi",
+    "level": 2
+  },
+  {
+    "character": "プ",
+    "transcription": "pu",
+    "level": 2
+  },
+  {
+    "character": "ペ",
+    "transcription": "pe",
+    "level": 2
+  },
+  {
+    "character": "ポ",
+    "transcription": "po",
+    "level": 2
+  },
+  {
+    "character": "ッ",
+    "transcription": "(pause)",
+    "level": 2
+  },
+  {
+    "character": "キャ",
+    "transcription": "kya",
+    "level": 3
+  },
+  {
+    "character": "キュ",
+    "transcription": "kyu",
+    "level": 3
+  },
+  {
+    "character": "キョ",
+    "transcription": "kyo",
+    "level": 3
+  },
+  {
+    "character": "シャ",
+    "transcription": "sha",
+    "level": 3
+  },
+  {
+    "character": "シュ",
+    "transcription": "shu",
+    "level": 3
+  },
+  {
+    "character": "ショ",
+    "transcription": "sho",
+    "level": 3
+  },
+  {
+    "character": "チャ",
+    "transcription": "cha",
+    "level": 3
+  },
+  {
+    "character": "チュ",
+    "transcription": "chu",
+    "level": 3
+  },
+  {
+    "character": "チョ",
+    "transcription": "cho",
+    "level": 3
+  },
+  {
+    "character": "ニャ",
+    "transcription": "nya",
+    "level": 3
+  },
+  {
+    "character": "ニュ",
+    "transcription": "nyu",
+    "level": 3
+  },
+  {
+    "character": "ニョ",
+    "transcription": "nyo",
+    "level": 3
+  },
+  {
+    "character": "ヒャ",
+    "transcription": "hya",
+    "level": 3
+  },
+  {
+    "character": "ヒュ",
+    "transcription": "hyu",
+    "level": 3
+  },
+  {
+    "character": "ヒョ",
+    "transcription": "hyo",
+    "level": 3
+  },
+  {
+    "character": "ミャ",
+    "transcription": "mya",
+    "level": 3
+  },
+  {
+    "character": "ミュ",
+    "transcription": "myu",
+    "level": 3
+  },
+  {
+    "character": "ミョ",
+    "transcription": "myo",
+    "level": 3
+  },
+  {
+    "character": "リャ",
+    "transcription": "rya",
+    "level": 3
+  },
+  {
+    "character": "リュ",
+    "transcription": "ryu",
+    "level": 3
+  },
+  {
+    "character": "リョ",
+    "transcription": "ryo",
+    "level": 3
+  },
+  {
+    "character": "ギャ",
+    "transcription": "gya",
+    "level": 3
+  },
+  {
+    "character": "ギュ",
+    "transcription": "gyu",
+    "level": 3
+  },
+  {
+    "character": "ギョ",
+    "transcription": "gyo",
+    "level": 3
+  },
+  {
+    "character": "ジャ",
+    "transcription": "ja",
+    "level": 3
+  },
+  {
+    "character": "ジュ",
+    "transcription": "ju",
+    "level": 3
+  },
+  {
+    "character": "ジョ",
+    "transcription": "jo",
+    "level": 3
+  },
+  {
+    "character": "ビャ",
+    "transcription": "bya",
+    "level": 3
+  },
+  {
+    "character": "ビュ",
+    "transcription": "byu",
+    "level": 3
+  },
+  {
+    "character": "ビョ",
+    "transcription": "byo",
+    "level": 3
+  },
+  {
+    "character": "ピャ",
+    "transcription": "pya",
+    "level": 3
+  },
+  {
+    "character": "ピュ",
+    "transcription": "pyu",
+    "level": 3
+  },
+  {
+    "character": "ピョ",
+    "transcription": "pyo",
+    "level": 3
+  }
+]
