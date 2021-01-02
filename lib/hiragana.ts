@@ -3,20 +3,25 @@ import path from 'path'
 
 const dataDirectory = path.join(process.cwd(), 'data')
 
-interface IResult{
+export interface IGetHiraganaDataResult {
   data: Array<{
     "character": string,
-    "transcription": string
+    "transcription": string,
+    level: number
   }>,
-  transcriptions: string[]
+  levels: number[]
 }
 
-export function getHiraganaData(): IResult {
+export function getHiraganaData(): IGetHiraganaDataResult {
   const fullPath = path.join(dataDirectory, 'hiragana.json')
   const fileContents = fs.readFileSync(fullPath, 'utf8')
-  const parsed: IResult['data'] = JSON.parse(fileContents);
+  const parsed: IGetHiraganaDataResult['data'] = JSON.parse(fileContents);
   return {
     data: parsed,
-    transcriptions: parsed.map((t) => t.transcription)
+    levels: Array.from(new Set<number>(parsed.map((t) => t.level))).sort()
+    // transcriptions: parsed.map((t) => ({
+    //   value: t.transcription,
+    //   level: t.level
+    // }))
   }
 }

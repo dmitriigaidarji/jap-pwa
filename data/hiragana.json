@@ -1,442 +1,552 @@
 [
   {
     "character": "あ",
-    "transcription": "a"
+    "transcription": "a",
+    "level": 1
   },
   {
     "character": "い",
-    "transcription": "i"
+    "transcription": "i",
+    "level": 1
   },
   {
     "character": "う",
-    "transcription": "u"
+    "transcription": "u",
+    "level": 1
   },
   {
     "character": "え",
-    "transcription": "e"
+    "transcription": "e",
+    "level": 1
   },
   {
     "character": "お",
-    "transcription": "o"
+    "transcription": "o",
+    "level": 1
   },
   {
     "character": "か",
-    "transcription": "ka"
+    "transcription": "ka",
+    "level": 1
   },
   {
     "character": "き",
-    "transcription": "ki"
+    "transcription": "ki",
+    "level": 1
   },
   {
     "character": "く",
-    "transcription": "ku"
+    "transcription": "ku",
+    "level": 1
   },
   {
     "character": "け",
-    "transcription": "ke"
+    "transcription": "ke",
+    "level": 1
   },
   {
     "character": "こ",
-    "transcription": "ko"
+    "transcription": "ko",
+    "level": 1
   },
   {
     "character": "さ",
-    "transcription": "sa"
+    "transcription": "sa",
+    "level": 1
   },
   {
     "character": "し",
-    "transcription": "shi"
+    "transcription": "shi",
+    "level": 1
   },
   {
     "character": "す",
-    "transcription": "su"
+    "transcription": "su",
+    "level": 1
   },
   {
     "character": "せ",
-    "transcription": "se"
+    "transcription": "se",
+    "level": 1
   },
   {
     "character": "そ",
-    "transcription": "so"
+    "transcription": "so",
+    "level": 1
   },
   {
     "character": "た",
-    "transcription": "ta"
+    "transcription": "ta",
+    "level": 1
   },
   {
     "character": "ち",
-    "transcription": "chi"
+    "transcription": "chi",
+    "level": 1
   },
   {
     "character": "つ",
-    "transcription": "tsu"
+    "transcription": "tsu",
+    "level": 1
   },
   {
     "character": "て",
-    "transcription": "te"
+    "transcription": "te",
+    "level": 1
   },
   {
     "character": "と",
-    "transcription": "to"
+    "transcription": "to",
+    "level": 1
   },
   {
     "character": "な",
-    "transcription": "na"
+    "transcription": "na",
+    "level": 1
   },
   {
     "character": "に",
-    "transcription": "ni"
+    "transcription": "ni",
+    "level": 1
   },
   {
     "character": "ぬ",
-    "transcription": "nu"
+    "transcription": "nu",
+    "level": 1
   },
   {
     "character": "ね",
-    "transcription": "ne"
+    "transcription": "ne",
+    "level": 1
   },
   {
     "character": "の",
-    "transcription": "no"
+    "transcription": "no",
+    "level": 1
   },
   {
     "character": "は",
-    "transcription": "ha"
+    "transcription": "ha",
+    "level": 1
   },
   {
     "character": "ひ",
-    "transcription": "hi"
+    "transcription": "hi",
+    "level": 1
   },
   {
     "character": "ふ",
-    "transcription": "fu"
+    "transcription": "fu",
+    "level": 1
   },
   {
     "character": "へ",
-    "transcription": "he"
+    "transcription": "he",
+    "level": 1
   },
   {
     "character": "ほ",
-    "transcription": "ho"
+    "transcription": "ho",
+    "level": 1
   },
   {
     "character": "ま",
-    "transcription": "ma"
+    "transcription": "ma",
+    "level": 1
   },
   {
     "character": "み",
-    "transcription": "mi"
+    "transcription": "mi",
+    "level": 1
   },
   {
     "character": "む",
-    "transcription": "mu"
+    "transcription": "mu",
+    "level": 1
   },
   {
     "character": "め",
-    "transcription": "me"
+    "transcription": "me",
+    "level": 1
   },
   {
     "character": "も",
-    "transcription": "mo"
+    "transcription": "mo",
+    "level": 1
   },
   {
     "character": "や",
-    "transcription": "ya"
+    "transcription": "ya",
+    "level": 1
   },
   {
     "character": "ゆ",
-    "transcription": "yu"
+    "transcription": "yu",
+    "level": 1
   },
   {
     "character": "よ",
-    "transcription": "yo"
+    "transcription": "yo",
+    "level": 1
   },
   {
     "character": "ら",
-    "transcription": "ra"
+    "transcription": "ra",
+    "level": 1
   },
   {
     "character": "り",
-    "transcription": "ri"
+    "transcription": "ri",
+    "level": 1
   },
   {
     "character": "る",
-    "transcription": "ru"
+    "transcription": "ru",
+    "level": 1
   },
   {
     "character": "れ",
-    "transcription": "re"
+    "transcription": "re",
+    "level": 1
   },
   {
     "character": "ろ",
-    "transcription": "ro"
+    "transcription": "ro",
+    "level": 1
   },
   {
     "character": "わ",
-    "transcription": "wa"
+    "transcription": "wa",
+    "level": 1
   },
   {
     "character": "ゐ",
-    "transcription": "wi"
+    "transcription": "wi",
+    "level": 1
   },
   {
     "character": "ゑ",
-    "transcription": "we"
+    "transcription": "we",
+    "level": 1
   },
   {
     "character": "を",
-    "transcription": "wo"
+    "transcription": "wo",
+    "level": 1
   },
   {
     "character": "ん",
-    "transcription": "n"
+    "transcription": "n",
+    "level": 1
   },
   {
     "character": "が",
-    "transcription": "ga"
+    "transcription": "ga",
+    "level": 2
   },
   {
     "character": "ぎ",
-    "transcription": "gi"
+    "transcription": "gi",
+    "level": 2
   },
   {
     "character": "ぐ",
-    "transcription": "gu"
+    "transcription": "gu",
+    "level": 2
   },
   {
     "character": "げ",
-    "transcription": "ge"
+    "transcription": "ge",
+    "level": 2
   },
   {
     "character": "ご",
-    "transcription": "go"
+    "transcription": "go",
+    "level": 2
   },
   {
     "character": "ざ",
-    "transcription": "za"
+    "transcription": "za",
+    "level": 2
   },
   {
     "character": "じ",
-    "transcription": "ji"
+    "transcription": "ji",
+    "level": 2
   },
   {
     "character": "ず",
-    "transcription": "zu"
+    "transcription": "zu",
+    "level": 2
   },
   {
     "character": "ぜ",
-    "transcription": "ze"
+    "transcription": "ze",
+    "level": 2
   },
   {
     "character": "ぞ",
-    "transcription": "zo"
+    "transcription": "zo",
+    "level": 2
   },
   {
     "character": "だ",
-    "transcription": "da"
+    "transcription": "da",
+    "level": 2
   },
   {
     "character": "ぢ",
-    "transcription": "ji"
+    "transcription": "ji",
+    "level": 2
   },
   {
     "character": "づ",
-    "transcription": "zu"
+    "transcription": "zu",
+    "level": 2
   },
   {
     "character": "で",
-    "transcription": "de"
+    "transcription": "de",
+    "level": 2
   },
   {
     "character": "ど",
-    "transcription": "do"
+    "transcription": "do",
+    "level": 2
   },
   {
     "character": "ば",
-    "transcription": "ba"
+    "transcription": "ba",
+    "level": 2
   },
   {
     "character": "び",
-    "transcription": "bi"
+    "transcription": "bi",
+    "level": 2
   },
   {
     "character": "ぶ",
-    "transcription": "bu"
+    "transcription": "bu",
+    "level": 2
   },
   {
     "character": "べ",
-    "transcription": "be"
+    "transcription": "be",
+    "level": 2
   },
   {
     "character": "ぼ",
-    "transcription": "bo"
+    "transcription": "bo",
+    "level": 2
   },
   {
     "character": "ぱ",
-    "transcription": "pa"
+    "transcription": "pa",
+    "level": 2
   },
   {
     "character": "ぴ",
-    "transcription": "pi"
+    "transcription": "pi",
+    "level": 2
   },
   {
     "character": "ぷ",
-    "transcription": "pu"
+    "transcription": "pu",
+    "level": 2
   },
   {
     "character": "ぺ",
-    "transcription": "pe"
+    "transcription": "pe",
+    "level": 2
   },
   {
     "character": "ぽ",
-    "transcription": "po"
+    "transcription": "po",
+    "level": 2
   },
   {
     "character": "ゔ",
-    "transcription": "vu"
+    "transcription": "vu",
+    "level": 2
   },
   {
     "character": "きゃ",
-    "transcription": "kya"
+    "transcription": "kya",
+    "level": 3
   },
   {
     "character": "きゅ",
-    "transcription": "kyu"
+    "transcription": "kyu",
+    "level": 3
   },
   {
     "character": "きょ",
-    "transcription": "kyo"
+    "transcription": "kyo",
+    "level": 3
   },
   {
     "character": "しゃ",
-    "transcription": "sha"
+    "transcription": "sha",
+    "level": 3
   },
   {
     "character": "しゅ",
-    "transcription": "shu"
+    "transcription": "shu",
+    "level": 3
   },
   {
     "character": "しょ",
-    "transcription": "sho"
+    "transcription": "sho",
+    "level": 3
   },
   {
     "character": "ちゃ",
-    "transcription": "cha"
+    "transcription": "cha",
+    "level": 3
   },
   {
     "character": "ちゅ",
-    "transcription": "chu"
+    "transcription": "chu",
+    "level": 3
   },
   {
     "character": "ちょ",
-    "transcription": "cho"
+    "transcription": "cho",
+    "level": 3
   },
   {
     "character": "にゃ",
-    "transcription": "nya"
+    "transcription": "nya",
+    "level": 3
   },
   {
     "character": "にゅ",
-    "transcription": "nyu"
+    "transcription": "nyu",
+    "level": 3
   },
   {
     "character": "にょ",
-    "transcription": "nyo"
+    "transcription": "nyo",
+    "level": 3
   },
   {
     "character": "ひゃ",
-    "transcription": "hya"
+    "transcription": "hya",
+    "level": 3
   },
   {
     "character": "ひゅ",
-    "transcription": "hyu"
+    "transcription": "hyu",
+    "level": 3
   },
   {
     "character": "ひょ",
-    "transcription": "hyo"
+    "transcription": "hyo",
+    "level": 3
   },
   {
     "character": "みゃ",
-    "transcription": "mya"
+    "transcription": "mya",
+    "level": 3
   },
   {
     "character": "みゅ",
-    "transcription": "myu"
+    "transcription": "myu",
+    "level": 3
   },
   {
     "character": "みょ",
-    "transcription": "myo"
+    "transcription": "myo",
+    "level": 3
   },
   {
     "character": "りゃ",
-    "transcription": "rya"
+    "transcription": "rya",
+    "level": 3
   },
   {
     "character": "りゅ",
-    "transcription": "ryu"
+    "transcription": "ryu",
+    "level": 3
   },
   {
     "character": "りょ",
-    "transcription": "ryo"
+    "transcription": "ryo",
+    "level": 3
   },
   {
     "character": "ぎゃ",
-    "transcription": "gya"
+    "transcription": "gya",
+    "level": 3
   },
   {
     "character": "ぎゅ",
-    "transcription": "gyu"
+    "transcription": "gyu",
+    "level": 3
   },
   {
     "character": "ぎょ",
-    "transcription": "gyo"
+    "transcription": "gyo",
+    "level": 3
   },
   {
     "character": "じゃ",
-    "transcription": "ja"
+    "transcription": "ja",
+    "level": 3
   },
   {
     "character": "じゅ",
-    "transcription": "ju"
+    "transcription": "ju",
+    "level": 3
   },
   {
     "character": "じょ",
-    "transcription": "jo"
+    "transcription": "jo",
+    "level": 3
   },
   {
     "character": "ぢゃ",
-    "transcription": "ja"
+    "transcription": "ja",
+    "level": 3
   },
   {
     "character": "ぢゅ",
-    "transcription": "ju"
+    "transcription": "ju",
+    "level": 3
   },
   {
     "character": "ぢょ",
-    "transcription": "jo"
+    "transcription": "jo",
+    "level": 3
   },
   {
     "character": "びゃ",
-    "transcription": "bya"
+    "transcription": "bya",
+    "level": 3
   },
   {
     "character": "びゅ",
-    "transcription": "byu"
+    "transcription": "byu",
+    "level": 3
   },
   {
     "character": "にょ",
-    "transcription": "byo"
+    "transcription": "byo",
+    "level": 3
   },
   {
     "character": "ぴゃ",
-    "transcription": "pya"
+    "transcription": "pya",
+    "level": 3
   },
   {
     "character": "ぴゅ",
-    "transcription": "pyu"
+    "transcription": "pyu",
+    "level": 3
   },
   {
     "character": "ぴょ",
-    "transcription": "pyo"
+    "transcription": "pyo",
+    "level": 3
   }
 ]

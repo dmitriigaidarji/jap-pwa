@@ -5,10 +5,6 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to Hiragana Learner App!
-        </h1>
-
         <p className={styles.description}>
           Get started by selecting a learning mode below
         </p>
@@ -17,7 +13,7 @@ export default function Home() {
           <Link href="/hiragana/">
             <a className={styles.card}>
               <h3>Hiragana &rarr;</h3>
-              <p>Test your Hiragana characters knowledge</p>
+              <p>Test your Hiragana characters knowledge by choosing a correct pronunciation</p>
             </a>
           </Link>
 
@@ -45,17 +41,6 @@ export default function Home() {
           </a>
         </div>
       </main>
-
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo}/>
-        </a>
-      </footer>
     </div>
   )
 }
