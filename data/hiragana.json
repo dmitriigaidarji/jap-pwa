@@ -1,442 +1,442 @@
 [
   {
     "character": "あ",
-    "sound": "a"
+    "transcription": "a"
   },
   {
     "character": "い",
-    "sound": "i"
+    "transcription": "i"
   },
   {
     "character": "う",
-    "sound": "u"
+    "transcription": "u"
   },
   {
     "character": "え",
-    "sound": "e"
+    "transcription": "e"
   },
   {
     "character": "お",
-    "sound": "o"
+    "transcription": "o"
   },
   {
     "character": "か",
-    "sound": "ka"
+    "transcription": "ka"
   },
   {
     "character": "き",
-    "sound": "ki"
+    "transcription": "ki"
   },
   {
     "character": "く",
-    "sound": "ku"
+    "transcription": "ku"
   },
   {
     "character": "け",
-    "sound": "ke"
+    "transcription": "ke"
   },
   {
     "character": "こ",
-    "sound": "ko"
+    "transcription": "ko"
   },
   {
     "character": "さ",
-    "sound": "sa"
+    "transcription": "sa"
   },
   {
     "character": "し",
-    "sound": "shi"
+    "transcription": "shi"
   },
   {
     "character": "す",
-    "sound": "su"
+    "transcription": "su"
   },
   {
     "character": "せ",
-    "sound": "se"
+    "transcription": "se"
   },
   {
     "character": "そ",
-    "sound": "so"
+    "transcription": "so"
   },
   {
     "character": "た",
-    "sound": "ta"
+    "transcription": "ta"
   },
   {
     "character": "ち",
-    "sound": "chi"
+    "transcription": "chi"
   },
   {
     "character": "つ",
-    "sound": "tsu"
+    "transcription": "tsu"
   },
   {
     "character": "て",
-    "sound": "te"
+    "transcription": "te"
   },
   {
     "character": "と",
-    "sound": "to"
+    "transcription": "to"
   },
   {
     "character": "な",
-    "sound": "na"
+    "transcription": "na"
   },
   {
     "character": "に",
-    "sound": "ni"
+    "transcription": "ni"
   },
   {
     "character": "ぬ",
-    "sound": "nu"
+    "transcription": "nu"
   },
   {
     "character": "ね",
-    "sound": "ne"
+    "transcription": "ne"
   },
   {
     "character": "の",
-    "sound": "no"
+    "transcription": "no"
   },
   {
     "character": "は",
-    "sound": "ha"
+    "transcription": "ha"
   },
   {
     "character": "ひ",
-    "sound": "hi"
+    "transcription": "hi"
   },
   {
     "character": "ふ",
-    "sound": "fu"
+    "transcription": "fu"
   },
   {
     "character": "へ",
-    "sound": "he"
+    "transcription": "he"
   },
   {
     "character": "ほ",
-    "sound": "ho"
+    "transcription": "ho"
   },
   {
     "character": "ま",
-    "sound": "ma"
+    "transcription": "ma"
   },
   {
     "character": "み",
-    "sound": "mi"
+    "transcription": "mi"
   },
   {
     "character": "む",
-    "sound": "mu"
+    "transcription": "mu"
   },
   {
     "character": "め",
-    "sound": "me"
+    "transcription": "me"
   },
   {
     "character": "も",
-    "sound": "mo"
+    "transcription": "mo"
   },
   {
     "character": "や",
-    "sound": "ya"
+    "transcription": "ya"
   },
   {
     "character": "ゆ",
-    "sound": "yu"
+    "transcription": "yu"
   },
   {
     "character": "よ",
-    "sound": "yo"
+    "transcription": "yo"
   },
   {
     "character": "ら",
-    "sound": "ra"
+    "transcription": "ra"
   },
   {
     "character": "り",
-    "sound": "ri"
+    "transcription": "ri"
   },
   {
     "character": "る",
-    "sound": "ru"
+    "transcription": "ru"
   },
   {
     "character": "れ",
-    "sound": "re"
+    "transcription": "re"
   },
   {
     "character": "ろ",
-    "sound": "ro"
+    "transcription": "ro"
   },
   {
     "character": "わ",
-    "sound": "wa"
+    "transcription": "wa"
   },
   {
     "character": "ゐ",
-    "sound": "wi"
+    "transcription": "wi"
   },
   {
     "character": "ゑ",
-    "sound": "we"
+    "transcription": "we"
   },
   {
     "character": "を",
-    "sound": "wo"
+    "transcription": "wo"
   },
   {
     "character": "ん",
-    "sound": "n"
+    "transcription": "n"
   },
   {
     "character": "が",
-    "sound": "ga"
+    "transcription": "ga"
   },
   {
     "character": "ぎ",
-    "sound": "gi"
+    "transcription": "gi"
   },
   {
     "character": "ぐ",
-    "sound": "gu"
+    "transcription": "gu"
   },
   {
     "character": "げ",
-    "sound": "ge"
+    "transcription": "ge"
   },
   {
     "character": "ご",
-    "sound": "go"
+    "transcription": "go"
   },
   {
     "character": "ざ",
-    "sound": "za"
+    "transcription": "za"
   },
   {
     "character": "じ",
-    "sound": "ji"
+    "transcription": "ji"
   },
   {
     "character": "ず",
-    "sound": "zu"
+    "transcription": "zu"
   },
   {
     "character": "ぜ",
-    "sound": "ze"
+    "transcription": "ze"
   },
   {
     "character": "ぞ",
-    "sound": "zo"
+    "transcription": "zo"
   },
   {
     "character": "だ",
-    "sound": "da"
+    "transcription": "da"
   },
   {
     "character": "ぢ",
-    "sound": "ji"
+    "transcription": "ji"
   },
   {
     "character": "づ",
-    "sound": "zu"
+    "transcription": "zu"
   },
   {
     "character": "で",
-    "sound": "de"
+    "transcription": "de"
   },
   {
     "character": "ど",
-    "sound": "do"
+    "transcription": "do"
   },
   {
     "character": "ば",
-    "sound": "ba"
+    "transcription": "ba"
   },
   {
     "character": "び",
-    "sound": "bi"
+    "transcription": "bi"
   },
   {
     "character": "ぶ",
-    "sound": "bu"
+    "transcription": "bu"
   },
   {
     "character": "べ",
-    "sound": "be"
+    "transcription": "be"
   },
   {
     "character": "ぼ",
-    "sound": "bo"
+    "transcription": "bo"
   },
   {
     "character": "ぱ",
-    "sound": "pa"
+    "transcription": "pa"
   },
   {
     "character": "ぴ",
-    "sound": "pi"
+    "transcription": "pi"
   },
   {
     "character": "ぷ",
-    "sound": "pu"
+    "transcription": "pu"
   },
   {
     "character": "ぺ",
-    "sound": "pe"
+    "transcription": "pe"
   },
   {
     "character": "ぽ",
-    "sound": "po"
+    "transcription": "po"
   },
   {
     "character": "ゔ",
-    "sound": "vu"
+    "transcription": "vu"
   },
   {
     "character": "きゃ",
-    "sound": "kya"
+    "transcription": "kya"
   },
   {
     "character": "きゅ",
-    "sound": "kyu"
+    "transcription": "kyu"
   },
   {
     "character": "きょ",
-    "sound": "kyo"
+    "transcription": "kyo"
   },
   {
     "character": "しゃ",
-    "sound": "sha"
+    "transcription": "sha"
   },
   {
     "character": "しゅ",
-    "sound": "shu"
+    "transcription": "shu"
   },
   {
     "character": "しょ",
-    "sound": "sho"
+    "transcription": "sho"
   },
   {
     "character": "ちゃ",
-    "sound": "cha"
+    "transcription": "cha"
   },
   {
     "character": "ちゅ",
-    "sound": "chu"
+    "transcription": "chu"
   },
   {
     "character": "ちょ",
-    "sound": "cho"
+    "transcription": "cho"
   },
   {
     "character": "にゃ",
-    "sound": "nya"
+    "transcription": "nya"
   },
   {
     "character": "にゅ",
-    "sound": "nyu"
+    "transcription": "nyu"
   },
   {
     "character": "にょ",
-    "sound": "nyo"
+    "transcription": "nyo"
   },
   {
     "character": "ひゃ",
-    "sound": "hya"
+    "transcription": "hya"
   },
   {
     "character": "ひゅ",
-    "sound": "hyu"
+    "transcription": "hyu"
   },
   {
     "character": "ひょ",
-    "sound": "hyo"
+    "transcription": "hyo"
   },
   {
     "character": "みゃ",
-    "sound": "mya"
+    "transcription": "mya"
   },
   {
     "character": "みゅ",
-    "sound": "myu"
+    "transcription": "myu"
   },
   {
     "character": "みょ",
-    "sound": "myo"
+    "transcription": "myo"
   },
   {
     "character": "りゃ",
-    "sound": "rya"
+    "transcription": "rya"
   },
   {
     "character": "りゅ",
-    "sound": "ryu"
+    "transcription": "ryu"
   },
   {
     "character": "りょ",
-    "sound": "ryo"
+    "transcription": "ryo"
   },
   {
     "character": "ぎゃ",
-    "sound": "gya"
+    "transcription": "gya"
   },
   {
     "character": "ぎゅ",
-    "sound": "gyu"
+    "transcription": "gyu"
   },
   {
     "character": "ぎょ",
-    "sound": "gyo"
+    "transcription": "gyo"
   },
   {
     "character": "じゃ",
-    "sound": "ja"
+    "transcription": "ja"
   },
   {
     "character": "じゅ",
-    "sound": "ju"
+    "transcription": "ju"
   },
   {
     "character": "じょ",
-    "sound": "jo"
+    "transcription": "jo"
   },
   {
     "character": "ぢゃ",
-    "sound": "ja"
+    "transcription": "ja"
   },
   {
     "character": "ぢゅ",
-    "sound": "ju"
+    "transcription": "ju"
   },
   {
     "character": "ぢょ",
-    "sound": "jo"
+    "transcription": "jo"
   },
   {
     "character": "びゃ",
-    "sound": "bya"
+    "transcription": "bya"
   },
   {
     "character": "びゅ",
-    "sound": "byu"
+    "transcription": "byu"
   },
   {
     "character": "にょ",
-    "sound": "byo"
+    "transcription": "byo"
   },
   {
     "character": "ぴゃ",
-    "sound": "pya"
+    "transcription": "pya"
   },
   {
     "character": "ぴゅ",
-    "sound": "pyu"
+    "transcription": "pyu"
   },
   {
     "character": "ぴょ",
-    "sound": "pyo"
+    "transcription": "pyo"
   }
 ]
