@@ -1,0 +1,31 @@
+.container {
+    padding: 20px 0;
+}
+
+.options {
+    width: 300px;
+    margin: 2rem auto;
+}
+
+.option {
+    font-size: 140%;
+    cursor: pointer;
+}
+
+.submit{
+    display: block;
+    margin: 20px auto;
+    width: 100%;
+    max-width: 300px;
+    cursor: pointer;
+    background-color: cornflowerblue;
+    color: white;
+    font-weight: bold;
+    border: 1px solid dodgerblue;
+    padding: 10px;
+    font-size: 140%;
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translate(-50%, 0);
+}

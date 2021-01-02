@@ -3,9 +3,24 @@
     padding: 20px;
 }
 
+.score{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    font-size: 150%;
+}
+.score .correctScore{
+    color: #41ff41;
+    margin-right: 10px;
+}
+.score .incorrectScore{
+    color: #ff6b6b
+}
+
 .displayCharacter {
-    font-size: 14em;
+    font-size: 11em;
     font-weight: 300;
+    white-space: nowrap;
 }
 
 .grid {

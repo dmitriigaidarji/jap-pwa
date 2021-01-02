@@ -22,8 +22,24 @@ enum Status {
   picked
 }
 
+interface IScore{
+  correct: number, wrong: number
+}
+const initialCountsState: IScore = {correct: 0, wrong: 0};
+
+const reducer: React.Reducer<IScore, {type: 'correct' | 'wrong'}> = (state, action) => {
+  switch (action.type) {
+    case 'correct':
+      return {...state, correct: state.correct + 1};
+    case 'wrong':
+      return {...state, wrong: state.wrong + 1};
+    default:
+      throw new Error();
+  }
+}
 const Quiz: React.FC<IQuizProps> = ({data, transcriptions}) => {
   const statusRef = React.useRef(Status.idle)
+  const [score, dispatchScore] = React.useReducer(reducer, initialCountsState)
   const [currentItem, setCurrentItem] = React.useState<{
     value: {
       "character": string;
@@ -56,11 +72,14 @@ const Quiz: React.FC<IQuizProps> = ({data, transcriptions}) => {
   }, [data, transcriptions])
 
   const handleChoiceClick = React.useCallback((value: string) => {
-    if (statusRef.current === Status.idle)
+    if (statusRef.current === Status.idle) {
+      const correct =  currentItem.value.transcription === value
       setSelection({
         value,
-        correct: currentItem.value.transcription === value
+        correct
       })
+      dispatchScore({type: correct ? 'correct' : 'wrong'})
+    }
   }, [currentItem, statusRef])
 
   React.useEffect(() => {
@@ -71,12 +90,17 @@ const Quiz: React.FC<IQuizProps> = ({data, transcriptions}) => {
   React.useEffect(() => {
     if (selection !== undefined){
       statusRef.current = Status.picked;
-      setTimeout(() => setRandomItem(), 1000)
+      setTimeout(() => setRandomItem(), selection.correct ? 500 : 2000 )
     }else{
       statusRef.current = Status.idle
     }
   }, [selection, statusRef, setRandomItem])
+
   return <div className={styles.container}>
+    <div className={styles.score}>
+      <span className={styles.correctScore}>{score.correct}</span>
+      <span className={styles.incorrectScore}>{score.wrong}</span>
+    </div>
     {currentItem &&
     <>
       <div className={styles.displayCharacter}>

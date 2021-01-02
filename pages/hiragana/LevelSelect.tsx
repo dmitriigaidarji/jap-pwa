@@ -1,7 +1,7 @@
 import * as React from 'react';
 import Quiz, {IQuizProps} from "./Quiz";
 import {IGetHiraganaDataResult} from "../../lib/hiragana";
-
+import styles from '../../styles/LevelSelect.module.css'
 
 const LevelSelect: React.FC<IGetHiraganaDataResult> = (props) => {
   const {levels, data} = props;
@@ -36,13 +36,15 @@ const LevelSelect: React.FC<IGetHiraganaDataResult> = (props) => {
       }))
     })
   }, [data, selection])
-  return quizData ? <Quiz {...quizData}/> : <div>
+  return quizData ? <Quiz {...quizData}/> : <div className={styles.container}>
+    <div className={styles.options}>
     {options.map((t) => <Option
       checked={selection.includes(t)}
       example={data.find((d) => d.level === t)?.character}
       onClick={handleSelect}
       value={t}/>)}
-    <button type={'submit'} onClick={startQuiz}>Start</button>
+    </div>
+    <button className={styles.submit} type={'submit'} onClick={startQuiz}>Start</button>
   </div>
 }
 
@@ -51,7 +53,7 @@ const Option: React.FC<{ value: number; checked: boolean, example?: string, onCl
     const handleClick = React.useCallback(() => {
       onClick(value);
     }, [onClick, value])
-    return <p>
+    return <p className={styles.option}>
       <label><input type={'checkbox'} checked={checked} onChange={handleClick}/> Level {value} {example}</label>
     </p>
   }
