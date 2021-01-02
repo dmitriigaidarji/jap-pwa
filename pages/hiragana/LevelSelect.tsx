@@ -1,7 +1,7 @@
 import * as React from 'react';
 import Quiz, {IQuizProps} from "./Quiz";
-import {IGetHiraganaDataResult} from "../../lib/hiragana";
 import styles from '../../styles/LevelSelect.module.css'
+import {IGetHiraganaDataResult} from "../../lib/loadLang";
 
 const LevelSelect: React.FC<IGetHiraganaDataResult> = (props) => {
   const {levels, data} = props;
