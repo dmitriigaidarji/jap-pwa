@@ -37,6 +37,7 @@ const reducer: React.Reducer<IScore, {type: 'correct' | 'wrong'}> = (state, acti
       throw new Error();
   }
 }
+const NUMBER_OF_OPTIONS = 6;
 const Quiz: React.FC<IQuizProps> = ({data, transcriptions}) => {
   const statusRef = React.useRef(Status.idle)
   const [score, dispatchScore] = React.useReducer(reducer, initialCountsState)
@@ -48,6 +49,7 @@ const Quiz: React.FC<IQuizProps> = ({data, transcriptions}) => {
     choices: string[]
   } | undefined>(undefined)
 
+  const [mistakes, setMistakes] = React.useState<string[]>([])
   const [selection, setSelection] = React.useState<{
     value: string,
     correct: boolean
@@ -55,10 +57,18 @@ const Quiz: React.FC<IQuizProps> = ({data, transcriptions}) => {
 
   const setRandomItem = React.useCallback(() => {
     setSelection(undefined)
-    const item = data[Math.round((data.length - 1) * Math.random())];
+    let item = data[Math.round((data.length - 1) * Math.random())];
+    if (mistakes.length > 0 && Math.random() > 0.7){
+      const mistake = mistakes.splice(Math.round((mistakes.length - 1) * Math.random()), 1)[0]
+      const found = data.find((t) => t.character === mistake);
+      if (found){
+        item = found;
+      }
+    }
+
     const choices = [item.transcription];
     const trans = transcriptions.filter((t) => t.level === item.level)
-    while (choices.length !== 4) {
+    while (choices.length !== NUMBER_OF_OPTIONS) {
       const randomVal = trans[Math.round((trans.length - 1) * Math.random())];
       if (!choices.includes(randomVal.value)) {
         choices.push(randomVal.value);
@@ -69,7 +79,7 @@ const Quiz: React.FC<IQuizProps> = ({data, transcriptions}) => {
       choices: shuffle(choices)
     })
 
-  }, [data, transcriptions])
+  }, [data, transcriptions, mistakes])
 
   const handleChoiceClick = React.useCallback((value: string) => {
     if (statusRef.current === Status.idle) {
@@ -79,8 +89,11 @@ const Quiz: React.FC<IQuizProps> = ({data, transcriptions}) => {
         correct
       })
       dispatchScore({type: correct ? 'correct' : 'wrong'})
+      if (!correct){
+        mistakes.push(currentItem.value.character)
+      }
     }
-  }, [currentItem, statusRef])
+  }, [currentItem, statusRef, mistakes])
 
   React.useEffect(() => {
     setRandomItem();
